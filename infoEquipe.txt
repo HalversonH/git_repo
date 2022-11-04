@@ -1,5 +1,5 @@
 Product Owner: Iris Oliveira
-Equipe: Y
+Equipe: UnirVarejo
 Scrum mater: Daniel/
 Desenvolvedor01:Guilherme Roque
 Desenvolvedor02:Sabrina/
