@@ -1,2 +1,1 @@
-SE LIGA LEIA ISSO
-Guilherme Roque
+Repositorio de teste para o curso de programação embarcada do palomakoba motorola.
