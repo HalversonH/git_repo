@@ -2,6 +2,14 @@ Product Owner: Iris Oliveira
 Equipe: UnirVarejo
 Scrum mater: Daniel/
 Desenvolvedor01:Guilherme Roque
+Habilidades:pouca coisa sabe o basico.
+Experiencia:3/10
 Desenvolvedor02:Sabrina/
+Habilidades:?
+Experiencia:?/10
 Desenvolvedor03:Mateus/
+Habilidades:?
+Experiencia:?/10
 Desenvolvedor04:Ricardo/
+Habilidades:?
+Experiencia:?/10
